@@ -5,6 +5,7 @@ Hallo Horst
 Lulululu
 
 
+<<<<<<< HEAD
 Blublubluuuuuuuuuuuuu de Babbel hett en chline Schnabbel
 
 de Schorscho ghörsch scho
@@ -13,3 +14,6 @@ und de Heusler isch en Zeusler
 
 
 
+=======
+Wer das liest ist doof!
+>>>>>>> bbdac8b40385f2eb16c4af75c8ab1cec57fc0bd4
